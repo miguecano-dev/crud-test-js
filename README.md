@@ -1,5 +1,4 @@
-# Webpack configurado
+# Test single Crud just with JS
 
-Para usar este repositorio, deberán ejecutar el comando de ```npm install```
-
-Pero esto lo veremos en la siguiente sección
+Run command ```npm install```
+And check the console.log to view the data
